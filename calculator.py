@@ -1,4 +1,5 @@
 print("Simple Calculator")
 a=int(input("Enter first number:"))
 b=int(input("Enter second number:"))
-prnt("Sum:",a+b)
+print("Sum:",a+b)
+print("Power:",a**b)
