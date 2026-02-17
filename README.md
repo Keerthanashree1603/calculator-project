@@ -1,0 +1,1 @@
+Calculator Project is a simple Python-based command-line application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It was developed to demonstrate core programming concepts, user input handling, and version control using Git and GitHub.
